@@ -35,3 +35,16 @@ body {
     color: #fff;
     user-select: none;
   }
+  #spin{
+        cursor: pointer;
+        width: 280px;
+        height: 32px;
+        background: #3498db;
+        box-shadow: 0 4px 0 #2880b9;
+        border-radius: 18px;
+        line-height: 36px;
+        text-align: center;
+        color: #fff;
+        user-select: none;
+        margin: 0 auto;
+  }
